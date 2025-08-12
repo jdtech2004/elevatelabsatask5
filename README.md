@@ -1,5 +1,5 @@
 🚢 Titanic Survival Analysis
-This project explores passenger data from the Titanic disaster to uncover patterns and insights related to survival, using data analysis and visualization techniques in Python.
+.This project explores passenger data from the Titanic disaster to uncover patterns and insights related to survival, using data analysis and visualization techniques in Python.
 
 📊 Project Overview
 The goal of this analysis is to understand the factors that influenced a passenger's chance of survival. The dataset includes demographic and ticketing details such as age, sex, fare, and class. Through statistical and visual analysis, the project highlights key survival trends.
